@@ -1,6 +1,3 @@
-# Addison Burkett
-# COMP 6350 - Digital Forensics
-# November 11, 2024
 #
 # Use:
 #
